@@ -3,7 +3,7 @@ TMTinyCylon Larson Scanner
 [![TinyCylon Larson Scanner](https://github.com/phenoptix/TinyCylon/blob/master/Cylon%20Revisions.jpg?raw=true)  
 *TinyCylon Larson Scanner*](https://www.sparkfun.com/products/11859)
 
-This breakout board for the TMP0006 sensor allows you to measure the temperature of an object without making contact. 
+This is a very small larson scanner 50mm x 10mm was the target and we're just inside. Needs a button - working on it! 
 
 Repository Contents
 -------------------
