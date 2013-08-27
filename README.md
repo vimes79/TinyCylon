@@ -1,4 +1,4 @@
-TMTinyCylon Larson Scanner
+TinyCylon Larson Scanner
 ===========================
 [![TinyCylon Larson Scanner](https://github.com/phenoptix/TinyCylon/blob/master/Cylon%20Revisions.jpg?raw=true)  
 *TinyCylon Larson Scanner*](https://www.sparkfun.com/products/11859)
