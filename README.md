@@ -13,8 +13,8 @@ Repository Contents
 Version History
 ---------------
 * V0.1 Red Boards with dodgy traces needed a big bodge wire. 11 made I have 9 left!
-* V0.2 Blue Boards that actually work
-* V0.4 (the search for V0.3) Orange Boards, run of 6 - Current version
+* V0.3 Blue Boards that actually work
+* V0.4 (the search for V0.2) Orange Boards, run of 6 - Current version
 
 
 License Information
